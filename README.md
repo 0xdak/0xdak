@@ -11,7 +11,7 @@ Builder, security researcher, indie hacker. I ship products, find vulnerabilitie
 #### 🚀 Building
 
 - **[LandingVideo.com](https://landingvideo.com)** — paste a URL, get a promo video in 30 seconds.
-- **[VulnTracker](https://vulntracker.io)** — a React + Tailwind web app for tracking CVEs: searchable catalog filterable by severity, SSVC and remediation guide, a personal dashboard and Kanban-style triage board, vendor/product watchlists, and exports.
+- **[VulnTracker](https://vulntracker.io)** — a SaaS vulnerability-intelligence platform. Pick the vendors and products you run; it matches new CVEs against them and alerts you by email, Telegram or Slack, with a Kanban-style triage board, watchlists, exports and an open CVE catalog at [vulntracker.io/cves](https://vulntracker.io/cves) that aggregates NVD, CISA KEV, EPSS, SSVC and vendor advisories. Go (Gin + GORM) backend on PostgreSQL, React + Tailwind frontend.
 - **TrendSwap** — pick a trending clip, upload a selfie, become the video. Expo + Supabase + fal.ai.
 
 #### 🔐 Security
@@ -30,6 +30,7 @@ Builder, security researcher, indie hacker. I ship products, find vulnerabilitie
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
