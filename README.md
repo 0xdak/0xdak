@@ -1,24 +1,23 @@
 ### Ali Dak — `0xdak`
 
-Builder, security researcher, indie hacker. I ship products, find vulnerabilities, and build in public.
+Security researcher and indie hacker. I find vulnerabilities and ship products.
+
+OSCP certified. Founder of [DAK Siber](https://dakcyber.com), a Teknopark İstanbul cybersecurity company doing web/API penetration testing, vulnerability research and secure software development.
 
 **No capital, just skills and shipping speed.**
 
-🔐 OSCP certified · founder of [DAK Siber](https://dakcyber.com) — a Teknopark İstanbul–based cybersecurity company focused on web/API penetration testing, vulnerability research and secure software development.
-
 ---
 
-#### 🚀 Building
+#### Building
 
-- **[LandingVideo.com](https://landingvideo.com)** — paste a URL, get a promo video in 30 seconds.
-- **[VulnTracker](https://vulntracker.io)** — my SaaS vulnerability-intelligence platform (VulnTracker LLC). Pick the vendors and products you run; it matches new CVEs against them and alerts you by email, Telegram or Slack, with a Kanban-style triage board, watchlists, exports and an open CVE catalog at [vulntracker.io/cves](https://vulntracker.io/cves) that aggregates NVD, CISA KEV, EPSS, SSVC and vendor advisories. Go (Gin + GORM) backend on PostgreSQL, React + Tailwind frontend.
-- **TrendSwap** — pick a trending clip, upload a selfie, become the video. Expo + Supabase + fal.ai.
+- **[VulnTracker](https://vulntracker.io)** — my SaaS vulnerability-intelligence platform (VulnTracker LLC). You pick the vendors and products you run, it matches new CVEs against them and alerts you over email, Telegram or Slack. Kanban triage board, watchlists, exports, and an open CVE catalog at [vulntracker.io/cves](https://vulntracker.io/cves) that pulls together NVD, CISA KEV, EPSS, SSVC and vendor advisories. Go (Gin + GORM) on PostgreSQL, React + Tailwind frontend.
+- **[LandingVideo](https://landingvideo.com)** — paste a URL, get a promo video in 30 seconds.
 
-#### 🔐 Security
+#### Security
 
-- **CVE research** — published PoCs and exploit write-ups for recent CVEs.
-- **OffSec machines** — building vulnerable boxes and user-generated content for OffSec.
-- Web & API penetration testing and vulnerability research.
+- **CVE exploits** — 16 public proof-of-concept exploits for recent CVEs, written in Python and Bash.
+- **OffSec machines** — I build vulnerable boxes for OffSec's platform.
+- Web and API penetration testing, vulnerability research.
 
 ---
 
@@ -26,8 +25,8 @@ Builder, security researcher, indie hacker. I ship products, find vulnerabilitie
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
