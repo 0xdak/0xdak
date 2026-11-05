@@ -11,7 +11,7 @@ Builder, security researcher, indie hacker. I ship products, find vulnerabilitie
 #### 🚀 Building
 
 - **[LandingVideo.com](https://landingvideo.com)** — paste a URL, get a promo video in 30 seconds.
-- **[VulnTracker](https://vulntracker.io)** — a SaaS vulnerability-intelligence platform. Pick the vendors and products you run; it matches new CVEs against them and alerts you by email, Telegram or Slack, with a Kanban-style triage board, watchlists, exports and an open CVE catalog at [vulntracker.io/cves](https://vulntracker.io/cves) that aggregates NVD, CISA KEV, EPSS, SSVC and vendor advisories. Go (Gin + GORM) backend on PostgreSQL, React + Tailwind frontend.
+- **[VulnTracker](https://vulntracker.io)** — my SaaS vulnerability-intelligence platform (VulnTracker LLC). Pick the vendors and products you run; it matches new CVEs against them and alerts you by email, Telegram or Slack, with a Kanban-style triage board, watchlists, exports and an open CVE catalog at [vulntracker.io/cves](https://vulntracker.io/cves) that aggregates NVD, CISA KEV, EPSS, SSVC and vendor advisories. Go (Gin + GORM) backend on PostgreSQL, React + Tailwind frontend.
 - **TrendSwap** — pick a trending clip, upload a selfie, become the video. Expo + Supabase + fal.ai.
 
 #### 🔐 Security
