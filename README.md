@@ -11,7 +11,6 @@ OSCP certified. Founder of [DAK Siber](https://dakcyber.com), a Teknopark İstan
 #### Building
 
 - **[VulnTracker](https://vulntracker.io)** — my SaaS vulnerability-intelligence platform (VulnTracker LLC). You pick the vendors and products you run, it matches new CVEs against them and alerts you over email, Telegram or Slack. Kanban triage board, watchlists, exports, and an open CVE catalog at [vulntracker.io/cves](https://vulntracker.io/cves) that pulls together NVD, CISA KEV, EPSS, SSVC and vendor advisories. Go (Gin + GORM) on PostgreSQL, React + Tailwind frontend.
-- **[LandingVideo](https://landingvideo.com)** — paste a URL, get a promo video in 30 seconds.
 
 #### Security
 
