@@ -22,6 +22,6 @@ OSCP certified. Founder of [DAK Siber](https://dakcyber.com), a Teknopark İstan
 
 ---
 
-<a href="https://yuznumara.com">yuznumara.com</a> · <a href="https://twitter.com/_alidak">twitter/_alidak</a>
+<a href="https://yuznumara.com">yuznumara.com</a> · <a href="https://twitter.com/0xdak_">twitter/0xdak_</a>
 
 <img src="https://komarev.com/ghpvc/?username=0xdak&label=views&color=grey&style=flat" alt="0xdak" />
