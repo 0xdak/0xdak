@@ -2,7 +2,7 @@
 
 Security researcher and indie hacker. I find vulnerabilities and ship products.
 
-OSCP certified. Founder of [DAK Siber](https://dakcyber.com), a Teknopark İstanbul cyber security consulting company doing web, API, Active Directory and internal network penetration testing, vulnerability research and secure software development.
+OSCP certified. Founder of [DAKCYBER](https://dakcyber.com), a Teknopark İstanbul cyber security consulting company doing web, API, Active Directory and internal network penetration testing, vulnerability research and secure software development.
 
 ---
 
@@ -17,7 +17,6 @@ OSCP certified. Founder of [DAK Siber](https://dakcyber.com), a Teknopark İstan
 - Web and API penetration testing, vulnerability research.
 
 ---
-
 
 <a href="https://yuznumara.com">yuznumara.com</a> · <a href="https://twitter.com/0xdak_">twitter/0xdak_</a>
 
