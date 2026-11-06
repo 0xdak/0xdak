@@ -18,9 +18,6 @@ OSCP certified. Founder of [DAK Siber](https://dakcyber.com), a Teknopark İstan
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=0xdak&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
 
 <a href="https://yuznumara.com">yuznumara.com</a> · <a href="https://twitter.com/0xdak_">twitter/0xdak_</a>
 
