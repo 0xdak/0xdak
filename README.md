@@ -13,7 +13,7 @@ OSCP certified. Founder of [DAK Siber](https://dakcyber.com), a Teknopark İstan
 #### Security
 
 - **CVE exploits** — 16 public proof-of-concept exploits for recent CVEs, written in Python and Bash.
-- **[OffSec machines](https://dakcyber.com/hizmetler/icerik-uretimi)** — I build vulnerable boxes for OffSec's platform, 53 approved so far.
+- **[OffSec machines](https://dakcyber.com/hizmetler/icerik-uretimi)** — I build vulnerable boxes for OffSec's platform, 53 approved so far: web, API, Active Directory and internal network scenarios.
 - Web and API penetration testing, vulnerability research.
 
 ---
