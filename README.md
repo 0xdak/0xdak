@@ -4,8 +4,6 @@ Security researcher and indie hacker. I find vulnerabilities and ship products.
 
 OSCP certified. Founder of [DAK Siber](https://dakcyber.com), a Teknopark İstanbul cybersecurity company doing web/API penetration testing, vulnerability research and secure software development.
 
-**No capital, just skills and shipping speed.**
-
 ---
 
 #### Building
