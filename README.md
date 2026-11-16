@@ -1,6 +1,6 @@
 ### 0xdak
 
-Offensive security researcher from Istanbul. I break web apps, APIs and Active Directory for a living, then turn what I learn into software.
+Penetration tester from Istanbul. Today I do two things: pentesting, and building products for problems I run into every day.
 
 - **OSCP** · [verify credential](https://credentials.offsec.com/21070920-f49d-4e30-a9d0-e420e69a5f6c)
 - **53 machines** built for OffSec Proving Grounds · 39 live, 14 releasing
