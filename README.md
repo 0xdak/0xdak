@@ -1,23 +1,20 @@
-### Ali Dak — `0xdak`
+### 0xdak
 
-Security researcher and indie hacker. I find vulnerabilities and ship products.
+Offensive security researcher from Istanbul. I break web apps, APIs and Active Directory for a living, then turn what I learn into software.
 
-OSCP certified. Founder of [DAKCYBER](https://dakcyber.com), a Teknopark İstanbul cyber security consulting company doing web, API, Active Directory and internal network penetration testing, vulnerability research and secure software development.
+- **OSCP** · [verify credential](https://credentials.offsec.com/21070920-f49d-4e30-a9d0-e420e69a5f6c)
+- **53 machines** built for OffSec Proving Grounds · 39 live, 14 releasing
+- **16 public CVE exploits** · [see the repos](https://github.com/0xdak?tab=repositories&q=CVE)
+- **Founder of [DAKCYBER](https://dakcyber.com)** · penetration testing and secure software, Teknopark İstanbul
 
----
+#### Products
 
-#### Building
+| | | |
+|---|---|---|
+| [VulnTracker](https://vulntracker.io) | Live | Vulnerability intelligence: matches new CVEs to the software you actually run |
+| [Bowerbird](https://getbowerbird.app) | Launching | A private, visual companion to Finder for macOS |
+| Warden | Coming soon | A menu-bar checkpoint between AI coding agents and your Mac |
+| Foredeck | In development | Every AI coding-agent session on your Mac, on one screen |
+| Out of Book | In development | A chess opening coach for Lichess players |
 
-- **[VulnTracker](https://vulntracker.io)** — my SaaS vulnerability-intelligence platform (VulnTracker LLC). You pick the vendors and products you run, it matches new CVEs against them and alerts you over email, Telegram or Slack. Kanban triage board, watchlists, exports, and an open CVE catalog at [vulntracker.io/cves](https://vulntracker.io/cves) that pulls together NVD, CISA KEV, EPSS, SSVC and vendor advisories.
-
-#### Security
-
-- **CVE exploits** — 16 public proof-of-concept exploits for recent CVEs, written in Python and Bash.
-- **[OffSec machines](https://dakcyber.com/hizmetler/icerik-uretimi)** — I build vulnerable boxes for OffSec's platform, 53 approved so far: web, API, Active Directory and internal network scenarios.
-- Web and API penetration testing, vulnerability research.
-
----
-
-<a href="https://yuznumara.com">yuznumara.com</a> · <a href="https://twitter.com/0xdak_">twitter/0xdak_</a>
-
-<img src="https://komarev.com/ghpvc/?username=0xdak&label=views&color=grey&style=flat" alt="0xdak" />
+[yuznumara.com](https://yuznumara.com) · [x.com/0xdak_](https://x.com/0xdak_) · [dakcyber.com](https://dakcyber.com)
