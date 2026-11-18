@@ -13,7 +13,7 @@ Penetration tester from Istanbul. Today I do two things: pentesting, and buildin
 |---|---|---|
 | [VulnTracker](https://vulntracker.io) | Live | Vulnerability intelligence: matches new CVEs to the software you actually run |
 | [Bowerbird](https://getbowerbird.app/?ref=github) | Live | Finds files on your Mac by what you remember: text in screenshots, where a download came from, plain-English search. Runs on-device |
-| Warden | Coming soon | A menu-bar checkpoint between AI coding agents and your Mac |
+| [Warden](https://github.com/0xdak/warden) | Live · open source | Free, MIT macOS menu-bar guard for AI coding agents: asks before they read secrets or run destructive commands. Hook-based |
 | Foredeck | In development | Every AI coding-agent session on your Mac, on one screen |
 | Out of Book | In development | A chess opening coach for Lichess players |
 
